@@ -15,8 +15,8 @@ export class UsersService {
         },
         {
             userId: 2,
-            username: 'andrew',
-            password: '54321',
+            username: 'admin',
+            password: '112233',
             roles: [Role.Admin],
         },
     ];
